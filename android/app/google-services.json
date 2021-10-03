@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1079140415841",
+    "project_id": "freelancers-c22db",
+    "storage_bucket": "freelancers-c22db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079140415841:android:293d719fd2d66f66c4ed20",
+        "android_client_info": {
+          "package_name": "com.arleth.freelancers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079140415841-ttigt9tkat71i4sjpuo8ljqijm7ipbdh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arleth.freelancers",
+            "certificate_hash": "4fafbeffefc3bf8822b785c3dea28c6906c2d601"
+          }
+        },
+        {
+          "client_id": "1079140415841-r3s5hf9g1onfc6rtf5ehnv33gp3gn7lt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBStGkTU2pgyqDSYERIwwn-XkRtIYAwI58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079140415841-r3s5hf9g1onfc6rtf5ehnv33gp3gn7lt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

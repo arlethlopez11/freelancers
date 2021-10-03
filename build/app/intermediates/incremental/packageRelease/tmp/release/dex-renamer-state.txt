@@ -1,0 +1,4 @@
+#Tue Oct 06 16:15:51 CST 2020
+base.0=D\:\\Taxis\\taxis_ixcamparic\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

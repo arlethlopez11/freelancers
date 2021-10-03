@@ -1,0 +1,28 @@
+# Referenced at D:\Taxis\taxis_ixcamparic\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:27
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at D:\Taxis\taxis_ixcamparic\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:36
+-keep class com.example.taxis_ixcamparic.MainActivity { <init>(); }
+# Referenced at D:\Taxis\taxis_ixcamparic\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:159
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(); }
+# Referenced at D:\Taxis\taxis_ixcamparic\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:116
+-keep class com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver { <init>(); }
+# Referenced at D:\Taxis\taxis_ixcamparic\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:130
+-keep class com.google.android.gms.measurement.AppMeasurementJobService { <init>(); }
+# Referenced at D:\Taxis\taxis_ixcamparic\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:111
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(); }
+# Referenced at D:\Taxis\taxis_ixcamparic\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:126
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(); }
+# Referenced at D:\Taxis\taxis_ixcamparic\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:136
+-keep class com.google.firebase.auth.internal.FederatedSignInActivity { <init>(); }
+# Referenced at D:\Taxis\taxis_ixcamparic\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:57
+-keep class com.google.firebase.components.ComponentDiscoveryService { <init>(); }
+# Referenced at D:\Taxis\taxis_ixcamparic\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:144
+-keep class com.google.firebase.iid.FirebaseInstanceIdReceiver { <init>(); }
+# Referenced at D:\Taxis\taxis_ixcamparic\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:153
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(); }
+# Referenced at D:\Taxis\taxis_ixcamparic\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:27
+-keep class io.flutter.app.FlutterApplication { <init>(); }
+# Referenced at D:\Taxis\taxis_ixcamparic\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:96
+-keep class io.flutter.plugins.imagepicker.ImagePickerFileProvider { <init>(); }
+# Referenced at D:\Taxis\taxis_ixcamparic\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:106
+-keep class io.flutter.plugins.urllauncher.WebViewActivity { <init>(); }
