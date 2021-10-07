@@ -76,7 +76,11 @@ Row(children: <Widget>[
    
             Divider(),
              Row(children: <Widget>[
-            Text(" ${widget.profesion} ${widget.correo}", style: TextStyle(color: Colors.black, fontSize: 22.0)),
+            Text(" ${widget.profesion} ", style: TextStyle(color: Colors.black, fontSize: 18.0)),
+          ],
+          ),
+            Row(children: <Widget>[
+            Text(" ${widget.correo}", style: TextStyle(color: Colors.black, fontSize: 18.0)),
           ],
           ),
            /* CachedNetworkImage(
@@ -89,7 +93,7 @@ Row(children: <Widget>[
    
             Divider(),
              Row(children: <Widget>[
-            Text(" ${widget.descripcion}", style: TextStyle(color: Colors.black, fontSize: 22.0)),
+            Text(" ${widget.descripcion}", style: TextStyle(color: Colors.black, fontSize: 15.0)),
           ],
           ),
         
@@ -105,7 +109,7 @@ Row(children: <Widget>[
           Divider(),
          
           Row(children: <Widget>[
-            Text("Categoria: ${widget.categoria}", style: TextStyle(color: Colors.black, fontSize: 22.0)),
+            Text("Categoria: ${widget.categoria}", style: TextStyle(color: Colors.black, fontSize: 18.0)),
           ],
           ),
        

@@ -67,11 +67,11 @@ _getFreelancers() async {
       });
     }
 
-  loginUser(String phone, String name, BuildContext context) {
+  loginUser2(String phone, String name, BuildContext context) {
       changeScreen(context,FreelancerPage());
   }
 
-  Future<bool> loginUser2(String phone, String name,BuildContext context) async{
+  Future<bool> loginUser(String phone, String name,BuildContext context) async{
     FirebaseAuth _auth = FirebaseAuth.instance;
 
     _auth.verifyPhoneNumber(

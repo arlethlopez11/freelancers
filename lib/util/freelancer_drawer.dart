@@ -82,7 +82,7 @@ class _FreelancerDrawerState extends State<FreelancerDrawer>{
           )
           
           ),
-          InkWell(   
+          /*InkWell(   
             onTap: (){
                                changeScreen(context,ReporteWhats());
             },
@@ -92,7 +92,7 @@ class _FreelancerDrawerState extends State<FreelancerDrawer>{
           )
           
           ),
-          
+          */
           
           /*InkWell(   
             onTap: (){

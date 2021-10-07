@@ -316,16 +316,19 @@ Padding(
             String imagen2 = imageUrl2;
             String categoriaP = '';
               if(_value==1) {
-                  categoriaP='In';
+                  categoriaP='Programador';
               }
               else if(_value==2) {
-
+                  categoriaP='Diseño Grafico';
               }
                else if(_value==3) {
-
+                 categoriaP='Abogado';
               }
                else if(_value==4) {
-
+                categoriaP='Abogado';
+              }
+              else if(_value==5) {
+                 categoriaP='Enfermeria';
               }
 
                 freelancerService.create(
@@ -336,7 +339,8 @@ Padding(
              foto2: imagen2,
              telefono: this.telefonoController.text,
              descripcion: this.descripcionController.text,
-             correo: this.correoController.text
+             correo: this.correoController.text,
+             categoria: categoriaP
             );
 
             
